@@ -1,20 +1,24 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Aluko Kayode, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+ I’m Kayode Aluko a data analyst with a strong track record in logistics, FMCG, and agribusiness. I specialize in transforming raw data into actionable insights that drive efficiency, profitability, and strategic growth. My experience spans operations, customer behavior analysis, and automated reporting systems, helping organizations make better, faster decisions.
+
+I’ve worked with both startups and multinational firms, from analyzing market reach for new products to predicting stock depletion trends across retail outlets. Currently, I support business leaders by building intelligent dashboards, running deep-dive analyses, and simplifying complex datasets for clear storytelling.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*Through my consulting and in-house roles, I offer both hands-on analysis and training support, helping companies and individuals leverage the full power of their data.*
 
-**- ✅ Data Cleaning and Transformation.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅  Data Analysis & Automation.**
+I design solutions for process improvement — from streamlining weekend reporting to developing predictive models for inventory and customer churn.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Dashboarding & Visualization.**
+Expert in Excel, Power BI, and Tableau, I create clear, interactive dashboards tailored to business needs.. 
 
+**- ✅ Training & Capacity Building.**
+I mentor aspiring analysts and deliver practical training on data tools and techniques from beginner to advanced, helping teams build internal capacity for data-driven decision-making. 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS 
@@ -24,32 +28,26 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Rubies Tea Shop Sales Data.**
 ![image](Dashboard 1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The aroma of freshly brewed coffee drifts through the air, but behind every cup lies a story of numbers, trends, and decisions.This dashboard tells the story of Rubbies Coffee Shop — a business brewed on insight. From over 900 customers across 375 cities in three countries, sales worth $45,134 have been poured into cups of Arabica, Excelsa, Liberica, and Robusta.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/)
 
 **Rubies Group of Stores Sales & Expenses Analysis.**
 
 ![image](Dashboard 2.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+In every retail business, there’s more to success than just ringing up sales — the real magic lies in understanding what drives them.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+This dashboard tells the unfolding story of Rubies Retail Stores through the lens of sales and expense data. With a total revenue of $20.94M, it dives deep into the performance landscape across years, months, and customer segments. 
+
+[Read More](https://www.linkedin.com/)
 
 **Contact Form.**
 
 ![image](UserForm Pro..png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-**Madona Christmas Sales Data.**
-
-![image]()
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Collecting data doesn't have to be clunky. his Contact Form was built using Excel VBA and UserForms, designed to streamline data entry and make communication management seamless 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
