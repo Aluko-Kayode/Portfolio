@@ -22,7 +22,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Rubies Tea Shop Sales Data.**
-![image](UserForm Pro..png)
+![image](Dashboard 1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -31,7 +31,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Rubies Group of Stores Sales & Expenses Analysis.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Dashboard 2.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
