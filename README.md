@@ -39,7 +39,15 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Contact Form.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](UserForm Pro..png)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+
+**Madona Christmas Sales Data.**
+
+![image](UserForm Pro..png)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
