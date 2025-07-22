@@ -49,7 +49,7 @@ This dashboard tells the unfolding story of Rubies Retail Stores through the len
 
 Collecting data doesn't have to be clunky. his Contact Form was built using Excel VBA and UserForms, designed to streamline data entry and make communication management seamless 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="Contact Form.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -71,7 +71,7 @@ Collecting data doesn't have to be clunky. his Contact Form was built using Exce
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="ALUKO KAYODE PAUL_Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
