@@ -47,7 +47,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 **Madona Christmas Sales Data.**
 
-![image](UserForm Pro..png)
+![image]()
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
